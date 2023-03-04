@@ -23,8 +23,3 @@ pnpm-debug.log*
 
 # Local
 *.local
-
-**/.DS_Store
-
-# Editor directories and files
-.idea
